@@ -1,0 +1,16 @@
+#myCanvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+}
+
+.blank-space {
+    height: 20px;
+}
+
+#x, #y {
+    font-weight: bold;
+}
